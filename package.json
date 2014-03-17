@@ -1,0 +1,26 @@
+{
+  "name": "reconnect-tls",
+  "version": "0.0.0",
+  "description": "Reconnect a tls/ssl stream when it goes down.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/reconnect-tls"
+  },
+  "keywords": [
+    "reconnect",
+    "tls",
+    "ssl"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/reconnect-tls/issues"
+  },
+  "dependencies": {
+    "reconnect-core": "~0.0.1"
+  }
+}
