@@ -1,6 +1,6 @@
 {
   "name": "reconnect-tls",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reconnect a tls/ssl stream when it goes down.",
   "main": "index.js",
   "scripts": {
