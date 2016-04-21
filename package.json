@@ -1,6 +1,6 @@
 {
   "name": "reconnect-tls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reconnect a tls/ssl stream when it goes down.",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "url": "https://github.com/fgascon/reconnect-tls/issues"
   },
   "dependencies": {
-    "reconnect-core": "~0.0.1"
+    "reconnect-core": "~v1.2.0"
   }
 }
