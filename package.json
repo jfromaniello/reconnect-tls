@@ -16,6 +16,9 @@
     "ssl"
   ],
   "author": "fgascon",
+  "contributors": [
+    "vladislav-jomedia"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fgascon/reconnect-tls/issues"
