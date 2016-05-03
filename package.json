@@ -24,6 +24,6 @@
     "url": "https://github.com/fgascon/reconnect-tls/issues"
   },
   "dependencies": {
-    "reconnect-core": "~v1.2.0"
+    "reconnect-core": "~1.2.0"
   }
 }
